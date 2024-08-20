@@ -1,49 +1,49 @@
-# 🚴 Dashboard de Ventas de Bicicletas en Power BI
+# 🚴 Bicycle Sales Dashboard in Power BI
 
-¡Bienvenido al repositorio del **Dashboard de Ventas de Bicicletas** creado con Power BI! Este proyecto tiene como objetivo proporcionar un análisis interactivo y detallado de las métricas clave de ventas para apoyar la toma de decisiones estratégicas.
+Welcome to the **Bicycle Sales Dashboard** repository created with Power BI! This project aims to provide an interactive and detailed analysis of key sales metrics to support strategic decision making.
 
-## 🚀 Descripción
+## 🚀 Description
 
-Este tablero incluye:
-- 📈 **Visualizaciones interactivas**: Gráficos y tablas dinámicas para explorar los datos.
-- 📊 **Métricas clave**: Análisis de KPIs importantes como ventas, productos, y ventas por localización.
-- 📅 **Análisis temporal**: Tendencias a lo largo del tiempo para identificar patrones y oportunidades.
-- 🗂️ **Tres pestañas**: 
-  - **Global**: Vista general de todas las métricas.
-  - **Productos**: Seguimiento y análisis de los diferentes productos.
-  - **Ventas por localización**: Análisis de ventas según la ubicación geográfica.
+This board includes:
+- 📈 **Interactive visualizations**: Pivot charts and tables to explore data.
+- 📊 **Key metrics**: Analysis of important KPIs such as sales, products, and sales by location.
+- 📅 **Temporal analysis**: Trends over time to identify patterns and opportunities.
+- 🗂️ **Three tabs**: 
+  - **Global**: General view of all metrics.
+  - **Products**: Monitoring and analysis of the different products.
+  - **Sales by location**: Sales analysis according to geographic location.
 
-## 🔄 Proceso ETL
+## 🔄 ETL process
 
-Este proyecto incluye un proceso completo de **ETL (Extracción, Transformación y Carga)**:
-- **Extracción**: Datos obtenidos de archivos CSV.
-- **Transformación**: 
-  - **Combinación de tablas**: Uso de Power Query para combinar y relacionar tablas de datos.
-  - **Limpieza de datos**: Eliminación de duplicados, tratamiento de valores nulos y normalización de datos.
-  - **Enriquecimiento de datos**: Agregación de columnas calculadas y transformación de datos para mejorar el análisis.
-- **Carga**: Integración de los datos transformados en Power BI para su análisis y visualización.
+This project includes a complete **ETL (Extract, Transform and Load)** process:
+- **Extraction**: Data obtained from CSV files.
+- **Transformation**: 
+  - **Combining tables**: Using Power Query to combine and relate data tables.
+  - **Data cleaning**: Elimination of duplicates, treatment of null values ​​and data normalization.
+  - **Data enrichment**: Aggregation of calculated columns and data transformation to improve analysis.
+- **Load**: Integration of transformed data into Power BI for analysis and visualization.
 
-## 🛠️ Métricas DAX
+## 🛠️ DAX Metrics
 
-Se han creado diversas métricas utilizando **DAX (Data Analysis Expressions)** para proporcionar análisis detallados y personalizados:
-- **Cálculo de KPIs**: Métricas como el total de ventas, ventas por producto, y ventas por localización.
-- **Medidas calculadas**: Creación de medidas personalizadas para análisis específicos.
-- **Columnas calculadas**: Agregación de columnas adicionales para enriquecer los datos.
-- **Filtrado y segmentación**: Uso de DAX para aplicar filtros y segmentaciones dinámicas en los datos.
+Various metrics have been created using **DAX (Data Analysis Expressions)** to provide detailed and customized analysis:
+- **Calculation of KPIs**: Metrics such as total sales, sales by product, and sales by location.
+- **Calculated measures**: Creation of custom measures for specific analyses.
+- **Calculated columns**: Adding additional columns to enrich the data.
+- **Filtering and segmentation**: Use of DAX to apply filters and dynamic segmentations to the data.
 
-## 📂 Estructura del Proyecto
+## 📂 Project Structure
 
-- `Ventas bicicletas.pbix`: Archivo principal del dashboard de Power BI.
-- `Imágenes/`: Capturas de pantalla del dashboard.
+- `Bicycle sales.pbix`: Main file of the Power BI dashboard.
+- `Images/`: Screenshots of the dashboard.
 
-## 🛠️ Requisitos
+## 🛠️ Requirements
 
 - Power BI Desktop
 
-## 📧 Contacto
+## 📧 Contact
 
-Para cualquier consulta, puedes contactarme en jotaduranbon@gmail.com.
+For any questions, you can contact me at jotaduranbon@gmail.com.
 
 ---
 
-Gracias por visitar este repositorio! Esperamos que encuentres útil este dashboard para tus análisis de ventas de bicicletas. 🎉
+Thanks for visiting this repository! We hope you find this dashboard useful for your bicycle sales analysis. 🎉
